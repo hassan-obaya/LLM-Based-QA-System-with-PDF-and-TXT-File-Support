@@ -22,7 +22,7 @@ A powerful Python project that allows you to **upload a PDF or TXT file**, ask a
 ├── Code.py     # Main QA script
 ├── requirements.txt             # Dependencies
 └── README.md                    # Project documentation
-
+```
 
 ---
 
@@ -117,4 +117,5 @@ This project is open-source and free to use for educational or research purposes
 ## 🙋‍♂️ Author
 
 By Hassan Obaia
+
 
